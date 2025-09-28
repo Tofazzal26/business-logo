@@ -1,1 +1,12 @@
 @import "tailwindcss";
+@plugin "daisyui";
+.collapse-arrow .collapse-title:after {
+  right: 1rem !important;
+  left: auto !important;
+}
+
+.collapse.collapse-arrow .collapse-title:after {
+  width: 16px !important;
+  height: 16px !important;
+  color: #aab6b5 !important;
+}
