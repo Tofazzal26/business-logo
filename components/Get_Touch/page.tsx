@@ -16,7 +16,7 @@ const Get_Touch = () => {
                 plumbing task that needs the attention of a trusted
                 professional.
               </p>
-              <button className="text-[#0058FF] bg-white px-6 py-2.5 rounded-lg flex items-center gap-2">
+              <button className="text-[#0058FF] bg-white px-6 py-2.5 cursor-pointer rounded-lg flex items-center gap-2">
                 Book a Professional Plumber <FaArrowRight />{" "}
               </button>
             </div>
