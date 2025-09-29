@@ -1,5 +1,5 @@
 
-# Business Logo - FAQ & Contact Page
+# Business Logo
 
 This project is a modern web application built with Next.js and TypeScript, styled using TailwindCSS and DaisyUI.
 It provides an elegant FAQ (Frequently Asked Questions) section and a Contact Section for users to get in touch easily.
